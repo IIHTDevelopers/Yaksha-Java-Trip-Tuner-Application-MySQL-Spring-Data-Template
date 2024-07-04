@@ -12,7 +12,7 @@ public interface ItineraryRepository extends JpaRepository<Itinerary, Long> {
 
 	// Filter itineraries within a given start and end date range
 
-	// List all itineraries ordered by name in ascending in ascending in pages
+	// List all itineraries ordered by name in ascending order in pages
 
 	// Retrieves itineraries that start on or after the specified start date and end
 	// on or before the specified end date.
