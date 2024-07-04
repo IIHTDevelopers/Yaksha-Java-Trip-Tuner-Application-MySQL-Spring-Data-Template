@@ -10,8 +10,6 @@ public interface DestinationRepository extends JpaRepository<Destination, Long> 
 
 	// Find destinations by the itinerary ID
 
-	// Find a destination by its ID and itinerary ID
-
 	// Search destinations within an itinerary by name
 
 	// Filter destinations within an itinerary by type
